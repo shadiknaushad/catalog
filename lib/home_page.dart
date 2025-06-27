@@ -17,7 +17,7 @@ class _HomePageState extends State<HomePage> {
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text("welcome to 30 days of flutters"),
+            Text("welcome to 30 days"),
             Column(
               children: [
                 Text('Username'),
