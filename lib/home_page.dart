@@ -11,7 +11,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Catalog App"), backgroundColor: Colors.blue),
+      appBar: AppBar(title: Text("Catalog App"), backgroundColor: Colors.blueGrey),
       body: Center(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
